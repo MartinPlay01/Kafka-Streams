@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kstreams-use-cases-java.iml" filepath="$PROJECT_DIR$/.idea/kstreams-use-cases-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lala/lala.iml" filepath="$PROJECT_DIR$/lala/lala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/word_count/word_count.iml" filepath="$PROJECT_DIR$/word_count/word_count.iml" />
+    </modules>
+  </component>
+</project>
